@@ -14,8 +14,7 @@ $ apt update && apt upgrade -y
 
 Anschließend werden die Abhängigkeiten und die benötigte Software heruntergeladen.
 ```sh
-$ apt install build-essential git unzip zip sudo nano htop jnettop screen ca-certificates \
-php7.0-fpm php7.0-mbstring php7.0-curl php7.0-xml php7.0-gd php7.0-mysql mysql-server
+$ apt install build-essential git unzip zip sudo nano htop jnettop screen ca-certificates php7.0-fpm php7.0-mbstring php7.0-curl php7.0-xml php7.0-gd php7.0-mysql mysql-server
 ```
 
 Bei der Passwortabfrage des Paketmanagers für MySQL wird das root Passwort vergeben.
